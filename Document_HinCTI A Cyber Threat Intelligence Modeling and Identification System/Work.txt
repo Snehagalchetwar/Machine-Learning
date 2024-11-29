@@ -1,0 +1,38 @@
+Server
+----------
+Login,
+List of All Users and Authorize,
+View All Datasets,
+View All Datasets Cyber Threat By Hash Code,
+View All Datasets By URL Hash code,
+View Attacker Type Results. 
+
+
+End User
+-----------
+
+Register and Login,
+View Your Profile,
+Upload Datasets,
+Find Cyber Threat Type.
+
+
+Members
+---------
+url,
+atype,
+Port,
+IPAddress.
+
+
+
+
+
+
+
+
+
+
+
+
+
